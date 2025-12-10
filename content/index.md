@@ -1,6 +1,14 @@
 ---
-title: Welcome to Quartz
----
+title: "home"
+draft: false
+tags:
+--- 
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is my index page
+
+There is a page on setting up a free [[vpn]]
+
+There are also pages on planned sessions:
+- [[files]]
+- [[browsers]]
+- [[ui]]
