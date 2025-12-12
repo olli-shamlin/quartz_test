@@ -1,4 +1,4 @@
-name: Deploy Quartz site to GitHub Pages (tweak at 6:55)
+name: Deploy Quartz site to GitHub Pages
 
 on:
   push:
@@ -42,5 +42,5 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
   
